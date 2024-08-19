@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @yasemxn
-- 👀 I’m interested in coding, video/photo editing, drawing, piano and stuff.
-- 🌱 I’m currently learning python, swiftUI
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning python
 - 📫 You can reach me on linkedin: https://www.linkedin.com/in/yaseminkaracaa/
