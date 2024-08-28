@@ -1,5 +1,5 @@
 # 💫 About Me:
-Studied MSc in Data Science and Artificial Intelligence at Bournemouth University<br>Had my BSc in Computer Engineering at Bahcesehir University<br>I'm interested in coding<br>
+a MSc graduate in Data Science and Artificial Intelligence at Bournemouth University<br>Had my BSc in Computer Engineering at Bahcesehir University<br>I'm interested in coding<br>
 
 
 ## 🌐 Socials:
