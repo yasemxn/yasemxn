@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @yasemxn
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 👋 Hi there!
 - 📫 You can reach me on linkedin: https://www.linkedin.com/in/yaseminkaracaa/
