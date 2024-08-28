@@ -1,5 +1,5 @@
 # 💫 About Me:
-Studied MSc in Data Science and Artificial Intelligence at Bournemouth University<br>Had my BSc in Computer Engineering at Bahcesehir University<br>I'm interested in coding<br>📫 You can reach me on linkedin: https://www.linkedin.com/in/yaseminkaracaa/
+Studied MSc in Data Science and Artificial Intelligence at Bournemouth University<br>Had my BSc in Computer Engineering at Bahcesehir University<br>I'm interested in coding<br>
 
 
 ## 🌐 Socials:
